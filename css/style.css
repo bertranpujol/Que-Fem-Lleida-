@@ -504,7 +504,7 @@ section {
 
 /*Imatge divisoria*/
 .cta {
-  background: linear-gradient(rgba(153, 107, 66, 0.5), rgba(153, 107, 66, 0.5)), url("../img/Lleide/seu\ vella.jpeg") fixed center center;
+  background: linear-gradient(rgba(153, 107, 66, 0.5), rgba(153, 107, 66, 0.5)), url("img/Lleide/seu\ vella.jpeg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
